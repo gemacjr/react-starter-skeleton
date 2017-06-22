@@ -6,7 +6,7 @@
 # testing
 /coverage
 
-# production
+# This is production
 /build
 
 # misc
